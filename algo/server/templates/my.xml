@@ -1,0 +1,75 @@
+<com.cyanspring.common.event.order.EnterParentOrderEvent>
+  <priority>NORMAL</priority>
+  <fields>
+    <entry>
+      <string>isFIX</string>
+      <boolean>false</boolean>
+    </entry>
+    <entry>
+      <string>Type</string>
+      <com.cyanspring.common.type.OrderType>Market</com.cyanspring.common.type.OrderType>
+    </entry>
+    <entry>
+      <string>Strategy</string>
+      <string>SNIPER</string>
+    </entry>
+    <entry>
+      <string>End Time</string>
+      <date>2012-11-21 15:00:00.0 UTC</date>
+    </entry>
+    <entry>
+      <string>Server Id</string>
+      <string>Test.EB.S1</string>
+    </entry>
+    <entry>
+      <string>Source</string>
+      <string>950-PC.USER.20121121-130934-380-0001</string>
+    </entry>
+    <entry>
+      <string>Qty</string>
+      <double>2000.0</double>
+    </entry>
+    <entry>
+      <string>id</string>
+      <string>S1-20121121-131057-756-1880P</string>
+    </entry>
+    <entry>
+      <string>Status</string>
+      <com.cyanspring.common.type.OrdStatus>CANCELED</com.cyanspring.common.type.OrdStatus>
+    </entry>
+    <entry>
+      <string>Created</string>
+      <date>2012-11-21 05:10:57.756 UTC</date>
+    </entry>
+    <entry>
+      <string>State</string>
+      <com.cyanspring.common.type.StrategyState>Terminated</com.cyanspring.common.type.StrategyState>
+    </entry>
+    <entry>
+      <string>Modified</string>
+      <date>2012-11-21 05:12:42.886 UTC</date>
+    </entry>
+    <entry>
+      <string>Side</string>
+      <com.cyanspring.common.type.OrderSide>Sell</com.cyanspring.common.type.OrderSide>
+    </entry>
+    <entry>
+      <string>Symbol</string>
+      <string>0005.HK</string>
+    </entry>
+    <entry>
+      <string>Price</string>
+      <double>68.6</double>
+    </entry>
+    <entry>
+      <string>Start Time</string>
+      <date>2012-11-20 17:00:00.0 UTC</date>
+    </entry>
+    <entry>
+      <string>Seq ID</string>
+      <string>S1-20121121-131242-886-0753</string>
+    </entry>
+  </fields>
+  <txId></txId>
+  <fix>false</fix>
+</com.cyanspring.common.event.order.EnterParentOrderEvent>
